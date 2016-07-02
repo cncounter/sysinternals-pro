@@ -1,5 +1,5 @@
 
-## [Lesson 4: Understanding Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson4/)
+## [Lesson 4: Understanding Process Monitor](lesson4.md)
 
 
 
@@ -11,16 +11,16 @@ Today in this edition of Geek School we’re going to teach you about how the Pr
 
 SCHOOL NAVIGATION
 
-1.  [What Are the SysInternals Tools and How Do You Use Them?](http://www.howtogeek.com/school/sysinternals-pro/lesson1/)
-2.  [Understanding Process Explorer](http://www.howtogeek.com/school/sysinternals-pro/lesson2/)
-3.  [Using Process Explorer to Troubleshoot and Diagnose](http://www.howtogeek.com/school/sysinternals-pro/lesson3/)
-4.  [Understanding Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson4/)
-5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](http://www.howtogeek.com/school/sysinternals-pro/lesson5/)
-6.  [Using Autoruns to Deal with Startup Processes and Malware](http://www.howtogeek.com/school/sysinternals-pro/lesson6/)
-7.  [Using BgInfo to Display System Information on the Desktop](http://www.howtogeek.com/school/sysinternals-pro/lesson7/)
-8.  [Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
-9.  [Analyzing and Managing Your Files, Folders, and Drives](http://www.howtogeek.com/school/sysinternals-pro/lesson9/)
-10.  [Wrapping Up and Using the Tools Together](http://www.howtogeek.com/school/sysinternals-pro/lesson10/)
+1.  [What Are the SysInternals Tools and How Do You Use Them?](lesson1.md)
+2.  [Understanding Process Explorer](lesson2.md)
+3.  [Using Process Explorer to Troubleshoot and Diagnose](lesson3.md)
+4.  [Understanding Process Monitor](lesson4.md)
+5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](lesson5.md)
+6.  [Using Autoruns to Deal with Startup Processes and Malware](lesson6.md)
+7.  [Using BgInfo to Display System Information on the Desktop](lesson7.md)
+8.  [Using PsTools to Control Other PCs from the Command Line](lesson8.md)
+9.  [Analyzing and Managing Your Files, Folders, and Drives](lesson9.md)
+10.  [Wrapping Up and Using the Tools Together](lesson10.md)
 
 Unlike the Process Explorer utility that we’ve spent a few days covering, Process Monitor is meant to be a passive look at everything that happens on your computer, not an active tool for killing processes or closing handles. This is like taking a peek at a global logfile for every single event that happens on your Windows PC.
 
@@ -134,12 +134,12 @@ Or, you might find that there isn’t anything useful here for you, and that’s
 
 Before we even proceed further, we’re going to want to note a result code that you’re going to start seeing a lot in the list, and based on all your geek knowledge so far, you might freak out a little bit about. So if you start seeing BUFFER OVERFLOW in the list, please don’t assume that somebody is trying to hack your computer.
 
-[Next Page: Filtering the Data that Process Monitor Captures](http://www.howtogeek.com/school/sysinternals-pro/lesson4/2/)
+[Next Page: Filtering the Data that Process Monitor Captures](lesson4.md2/)
 
 *   1
 
-*   [2](http://www.howtogeek.com/school/sysinternals-pro/lesson4/2/)
-*   [Next](http://www.howtogeek.com/school/sysinternals-pro/lesson4/2/)
+*   [2](lesson4.md2/)
+*   [Next](lesson4.md2/)
 
 [JOIN THE DISCUSSION (2 REPLIES)](#)
 

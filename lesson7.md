@@ -1,5 +1,5 @@
 
-## [Lesson 7: Using BgInfo to Display System Information on the Desktop](http://www.howtogeek.com/school/sysinternals-pro/lesson7/)
+## [Lesson 7: Using BgInfo to Display System Information on the Desktop](lesson7.md)
 
 
 
@@ -11,16 +11,16 @@ If you have ever done system administration, you probably have the problem where
 
 SCHOOL NAVIGATION
 
-1.  [What Are the SysInternals Tools and How Do You Use Them?](http://www.howtogeek.com/school/sysinternals-pro/lesson1/)
-2.  [Understanding Process Explorer](http://www.howtogeek.com/school/sysinternals-pro/lesson2/)
-3.  [Using Process Explorer to Troubleshoot and Diagnose](http://www.howtogeek.com/school/sysinternals-pro/lesson3/)
-4.  [Understanding Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson4/)
-5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](http://www.howtogeek.com/school/sysinternals-pro/lesson5/)
-6.  [Using Autoruns to Deal with Startup Processes and Malware](http://www.howtogeek.com/school/sysinternals-pro/lesson6/)
-7.  [Using BgInfo to Display System Information on the Desktop](http://www.howtogeek.com/school/sysinternals-pro/lesson7/)
-8.  [Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
-9.  [Analyzing and Managing Your Files, Folders, and Drives](http://www.howtogeek.com/school/sysinternals-pro/lesson9/)
-10.  [Wrapping Up and Using the Tools Together](http://www.howtogeek.com/school/sysinternals-pro/lesson10/)
+1.  [What Are the SysInternals Tools and How Do You Use Them?](lesson1.md)
+2.  [Understanding Process Explorer](lesson2.md)
+3.  [Using Process Explorer to Troubleshoot and Diagnose](lesson3.md)
+4.  [Understanding Process Monitor](lesson4.md)
+5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](lesson5.md)
+6.  [Using Autoruns to Deal with Startup Processes and Malware](lesson6.md)
+7.  [Using BgInfo to Display System Information on the Desktop](lesson7.md)
+8.  [Using PsTools to Control Other PCs from the Command Line](lesson8.md)
+9.  [Analyzing and Managing Your Files, Folders, and Drives](lesson9.md)
+10.  [Wrapping Up and Using the Tools Together](lesson10.md)
 
 If you’ve been following along with our series, you might be surprised at the huge departure from hunting malware and deleting crapware to displaying stuff on the desktop, but the SysInternals tools aren’t just about finding things to kill. There are also many utilities in the toolkit used for displaying information, and we’re going to look at some of them.
 
@@ -189,7 +189,7 @@ For the truly advanced users, you can also create a database on your network and
 
 Tomorrow we’re going to delve back into the super geeky world of SysInternals with a thorough examination of some of the command line tools, so be sure to check back for the rest of the series.
 
-[Next Page: Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
+[Next Page: Using PsTools to Control Other PCs from the Command Line](lesson8.md)
 
 [JOIN THE DISCUSSION (1 REPLY)](#)
 

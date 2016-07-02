@@ -1,4 +1,4 @@
-## [Lesson 1: What Are the SysInternals Tools and How Do You Use Them?](http://www.howtogeek.com/school/sysinternals-pro/lesson1/)
+## [Lesson 1: What Are the SysInternals Tools and How Do You Use Them?](lesson1.md)
 
 
 
@@ -10,16 +10,16 @@ This How-To Geek School series will teach you how to use SysInternals tools like
 
 SCHOOL NAVIGATION
 
-1.  [What Are the SysInternals Tools and How Do You Use Them?](http://www.howtogeek.com/school/sysinternals-pro/lesson1/)
-2.  [Understanding Process Explorer](http://www.howtogeek.com/school/sysinternals-pro/lesson2/)
-3.  [Using Process Explorer to Troubleshoot and Diagnose](http://www.howtogeek.com/school/sysinternals-pro/lesson3/)
-4.  [Understanding Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson4/)
-5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](http://www.howtogeek.com/school/sysinternals-pro/lesson5/)
-6.  [Using Autoruns to Deal with Startup Processes and Malware](http://www.howtogeek.com/school/sysinternals-pro/lesson6/)
-7.  [Using BgInfo to Display System Information on the Desktop](http://www.howtogeek.com/school/sysinternals-pro/lesson7/)
-8.  [Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
-9.  [Analyzing and Managing Your Files, Folders, and Drives](http://www.howtogeek.com/school/sysinternals-pro/lesson9/)
-10.  [Wrapping Up and Using the Tools Together](http://www.howtogeek.com/school/sysinternals-pro/lesson10/)
+1.  [What Are the SysInternals Tools and How Do You Use Them?](lesson1.md)
+2.  [Understanding Process Explorer](lesson2.md)
+3.  [Using Process Explorer to Troubleshoot and Diagnose](lesson3.md)
+4.  [Understanding Process Monitor](lesson4.md)
+5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](lesson5.md)
+6.  [Using Autoruns to Deal with Startup Processes and Malware](lesson6.md)
+7.  [Using BgInfo to Display System Information on the Desktop](lesson7.md)
+8.  [Using PsTools to Control Other PCs from the Command Line](lesson8.md)
+9.  [Analyzing and Managing Your Files, Folders, and Drives](lesson9.md)
+10.  [Wrapping Up and Using the Tools Together](lesson10.md)
 
 There are many other admin tools built into Windows, available for free on the web, or even through commercial sources, but none of them are quite as indispensible as the SysInternals suite of tools. That’s right, there’s a full set of free tools to do almost any administrator task, from monitoring or starting processes to peeking under the hood to see what files and registry keys your applications are really accessing.
 
@@ -123,7 +123,7 @@ And next week we’ll take a trip through some of the other utilities, like Auto
 
 There’s a lot of material to cover, so go grab yourself a copy of the utilities so you can follow along starting tomorrow.
 
-[Next Page: Understanding Process Explorer](http://www.howtogeek.com/school/sysinternals-pro/lesson2/)
+[Next Page: Understanding Process Explorer](lesson2.md)
 
 [JOIN THE DISCUSSION (10 REPLIES)](#)
 

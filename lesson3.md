@@ -1,5 +1,5 @@
 
-## [Lesson 3: Using Process Explorer to Troubleshoot and Diagnose](http://www.howtogeek.com/school/sysinternals-pro/lesson3/)
+## [Lesson 3: Using Process Explorer to Troubleshoot and Diagnose](lesson3.md)
 
 
 
@@ -11,16 +11,16 @@ Understanding how Process Explorer’s dialogs and options work is all fine and 
 
 SCHOOL NAVIGATION
 
-1.  [What Are the SysInternals Tools and How Do You Use Them?](http://www.howtogeek.com/school/sysinternals-pro/lesson1/)
-2.  [Understanding Process Explorer](http://www.howtogeek.com/school/sysinternals-pro/lesson2/)
-3.  [Using Process Explorer to Troubleshoot and Diagnose](http://www.howtogeek.com/school/sysinternals-pro/lesson3/)
-4.  [Understanding Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson4/)
-5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](http://www.howtogeek.com/school/sysinternals-pro/lesson5/)
-6.  [Using Autoruns to Deal with Startup Processes and Malware](http://www.howtogeek.com/school/sysinternals-pro/lesson6/)
-7.  [Using BgInfo to Display System Information on the Desktop](http://www.howtogeek.com/school/sysinternals-pro/lesson7/)
-8.  [Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
-9.  [Analyzing and Managing Your Files, Folders, and Drives](http://www.howtogeek.com/school/sysinternals-pro/lesson9/)
-10.  [Wrapping Up and Using the Tools Together](http://www.howtogeek.com/school/sysinternals-pro/lesson10/)
+1.  [What Are the SysInternals Tools and How Do You Use Them?](lesson1.md)
+2.  [Understanding Process Explorer](lesson2.md)
+3.  [Using Process Explorer to Troubleshoot and Diagnose](lesson3.md)
+4.  [Understanding Process Monitor](lesson4.md)
+5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](lesson5.md)
+6.  [Using Autoruns to Deal with Startup Processes and Malware](lesson6.md)
+7.  [Using BgInfo to Display System Information on the Desktop](lesson7.md)
+8.  [Using PsTools to Control Other PCs from the Command Line](lesson8.md)
+9.  [Analyzing and Managing Your Files, Folders, and Drives](lesson9.md)
+10.  [Wrapping Up and Using the Tools Together](lesson10.md)
 
 Not that long ago, we started investigating all sorts of malware and crapware that gets installed automatically any time you don’t pay attention while installing software. Nearly every piece of freeware on the market, including the “reputable” ones, are bundling toolbars, search hijacking awfulness, or adware, and some of it is hard to troubleshoot.
 
@@ -106,12 +106,12 @@ Interesting! We’ve found a number of DLL files here, but for some weird reason
 
 
 
-[Next Page: Dealing with Locked Files and Folders](http://www.howtogeek.com/school/sysinternals-pro/lesson3/2/)
+[Next Page: Dealing with Locked Files and Folders](lesson3.md2/)
 
 *   1
 
-*   [2](http://www.howtogeek.com/school/sysinternals-pro/lesson3/2/)
-*   [Next](http://www.howtogeek.com/school/sysinternals-pro/lesson3/2/)
+*   [2](lesson3.md2/)
+*   [Next](lesson3.md2/)
 
 [JOIN THE DISCUSSION (8 REPLIES)](#)
 

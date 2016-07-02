@@ -1,5 +1,5 @@
 
-## [Lesson 5: Using Process Monitor to Troubleshoot and Find Registry Hacks](http://www.howtogeek.com/school/sysinternals-pro/lesson5/)
+## [Lesson 5: Using Process Monitor to Troubleshoot and Find Registry Hacks](lesson5.md)
 
 
 
@@ -11,16 +11,16 @@ In today’s edition of Geek School we’re going to teach you how to use Proces
 
 SCHOOL NAVIGATION
 
-1.  [What Are the SysInternals Tools and How Do You Use Them?](http://www.howtogeek.com/school/sysinternals-pro/lesson1/)
-2.  [Understanding Process Explorer](http://www.howtogeek.com/school/sysinternals-pro/lesson2/)
-3.  [Using Process Explorer to Troubleshoot and Diagnose](http://www.howtogeek.com/school/sysinternals-pro/lesson3/)
-4.  [Understanding Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson4/)
-5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](http://www.howtogeek.com/school/sysinternals-pro/lesson5/)
-6.  [Using Autoruns to Deal with Startup Processes and Malware](http://www.howtogeek.com/school/sysinternals-pro/lesson6/)
-7.  [Using BgInfo to Display System Information on the Desktop](http://www.howtogeek.com/school/sysinternals-pro/lesson7/)
-8.  [Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
-9.  [Analyzing and Managing Your Files, Folders, and Drives](http://www.howtogeek.com/school/sysinternals-pro/lesson9/)
-10.  [Wrapping Up and Using the Tools Together](http://www.howtogeek.com/school/sysinternals-pro/lesson10/)
+1.  [What Are the SysInternals Tools and How Do You Use Them?](lesson1.md)
+2.  [Understanding Process Explorer](lesson2.md)
+3.  [Using Process Explorer to Troubleshoot and Diagnose](lesson3.md)
+4.  [Understanding Process Monitor](lesson4.md)
+5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](lesson5.md)
+6.  [Using Autoruns to Deal with Startup Processes and Malware](lesson6.md)
+7.  [Using BgInfo to Display System Information on the Desktop](lesson7.md)
+8.  [Using PsTools to Control Other PCs from the Command Line](lesson8.md)
+9.  [Analyzing and Managing Your Files, Folders, and Drives](lesson9.md)
+10.  [Wrapping Up and Using the Tools Together](lesson10.md)
 
 Process Monitor is one of the most impressive tools that you can have in your toolkit, as there is almost no other way to see what an application is actually doing under the hood. It is the only way to know what files are being written to by which process, and where things are stored in the registry, and which files are accessing them.
 
@@ -80,12 +80,12 @@ It’s not really possible to illustrate in a single article how to troubleshoot
 
 What we can do, however, is show how we actually used Process Monitor to troubleshoot a real problem that actually happened to one of our test computers. We had been installing some crapware, and then decided to try and clean the computer up. The problem was an entry in the Uninstall Programs panel that just wouldn’t go away.
 
-[Next Page: Troubleshooting Problems with Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson5/2/)
+[Next Page: Troubleshooting Problems with Process Monitor](lesson5.md2/)
 
 *   1
 
-*   [2](http://www.howtogeek.com/school/sysinternals-pro/lesson5/2/)
-*   [Next](http://www.howtogeek.com/school/sysinternals-pro/lesson5/2/)
+*   [2](lesson5.md2/)
+*   [Next](lesson5.md2/)
 
 [JOIN THE DISCUSSION (6 REPLIES)](#)
 

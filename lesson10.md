@@ -1,6 +1,6 @@
 # SysInternals Pro: Wrapping Up and Using the Tools Together
 
-## [Lesson 10: Wrapping Up and Using the Tools Together](http://www.howtogeek.com/school/sysinternals-pro/lesson10/)
+## [Lesson 10: Wrapping Up and Using the Tools Together](lesson10.md)
 
 
 
@@ -12,16 +12,16 @@ We’re at the end of our SysInternals series, and it’s time to wrap everythin
 
 SCHOOL NAVIGATION
 
-1.  [What Are the SysInternals Tools and How Do You Use Them?](http://www.howtogeek.com/school/sysinternals-pro/lesson1/)
-2.  [Understanding Process Explorer](http://www.howtogeek.com/school/sysinternals-pro/lesson2/)
-3.  [Using Process Explorer to Troubleshoot and Diagnose](http://www.howtogeek.com/school/sysinternals-pro/lesson3/)
-4.  [Understanding Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson4/)
-5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](http://www.howtogeek.com/school/sysinternals-pro/lesson5/)
-6.  [Using Autoruns to Deal with Startup Processes and Malware](http://www.howtogeek.com/school/sysinternals-pro/lesson6/)
-7.  [Using BgInfo to Display System Information on the Desktop](http://www.howtogeek.com/school/sysinternals-pro/lesson7/)
-8.  [Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
-9.  [Analyzing and Managing Your Files, Folders, and Drives](http://www.howtogeek.com/school/sysinternals-pro/lesson9/)
-10.  [Wrapping Up and Using the Tools Together](http://www.howtogeek.com/school/sysinternals-pro/lesson10/)
+1.  [What Are the SysInternals Tools and How Do You Use Them?](lesson1.md)
+2.  [Understanding Process Explorer](lesson2.md)
+3.  [Using Process Explorer to Troubleshoot and Diagnose](lesson3.md)
+4.  [Understanding Process Monitor](lesson4.md)
+5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](lesson5.md)
+6.  [Using Autoruns to Deal with Startup Processes and Malware](lesson6.md)
+7.  [Using BgInfo to Display System Information on the Desktop](lesson7.md)
+8.  [Using PsTools to Control Other PCs from the Command Line](lesson8.md)
+9.  [Analyzing and Managing Your Files, Folders, and Drives](lesson9.md)
+10.  [Wrapping Up and Using the Tools Together](lesson10.md)
 
 We’ve learned how to use Process Explorer to troubleshoot unruly processes on the system, and Process Monitor to see what they are doing under the hood. We’ve learned about Autoruns, one of the most powerful tools to deal with malware infections, and PsTools to control other PCs from the command line.
 
@@ -133,12 +133,12 @@ If you see a weird URL as a string in some software package, it is time to worry
 
 
 
-[Next Page: Configuring Auto Logon and ShellRunAs](http://www.howtogeek.com/school/sysinternals-pro/lesson10/2/)
+[Next Page: Configuring Auto Logon and ShellRunAs](lesson10.md2/)
 
 *   1
 
-*   [2](http://www.howtogeek.com/school/sysinternals-pro/lesson10/2/)
-*   [Next](http://www.howtogeek.com/school/sysinternals-pro/lesson10/2/)
+*   [2](lesson10.md2/)
+*   [Next](lesson10.md2/)
 
 [JOIN THE DISCUSSION (6 REPLIES)](#)
 

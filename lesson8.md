@@ -1,5 +1,5 @@
 
-## [Lesson 8: Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
+## [Lesson 8: Using PsTools to Control Other PCs from the Command Line](lesson8.md)
 
 
 
@@ -11,16 +11,16 @@ In today’s lesson in our Geek School series covering SysInternals, we’re goi
 
 SCHOOL NAVIGATION
 
-1.  [What Are the SysInternals Tools and How Do You Use Them?](http://www.howtogeek.com/school/sysinternals-pro/lesson1/)
-2.  [Understanding Process Explorer](http://www.howtogeek.com/school/sysinternals-pro/lesson2/)
-3.  [Using Process Explorer to Troubleshoot and Diagnose](http://www.howtogeek.com/school/sysinternals-pro/lesson3/)
-4.  [Understanding Process Monitor](http://www.howtogeek.com/school/sysinternals-pro/lesson4/)
-5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](http://www.howtogeek.com/school/sysinternals-pro/lesson5/)
-6.  [Using Autoruns to Deal with Startup Processes and Malware](http://www.howtogeek.com/school/sysinternals-pro/lesson6/)
-7.  [Using BgInfo to Display System Information on the Desktop](http://www.howtogeek.com/school/sysinternals-pro/lesson7/)
-8.  [Using PsTools to Control Other PCs from the Command Line](http://www.howtogeek.com/school/sysinternals-pro/lesson8/)
-9.  [Analyzing and Managing Your Files, Folders, and Drives](http://www.howtogeek.com/school/sysinternals-pro/lesson9/)
-10.  [Wrapping Up and Using the Tools Together](http://www.howtogeek.com/school/sysinternals-pro/lesson10/)
+1.  [What Are the SysInternals Tools and How Do You Use Them?](lesson1.md)
+2.  [Understanding Process Explorer](lesson2.md)
+3.  [Using Process Explorer to Troubleshoot and Diagnose](lesson3.md)
+4.  [Understanding Process Monitor](lesson4.md)
+5.  [Using Process Monitor to Troubleshoot and Find Registry Hacks](lesson5.md)
+6.  [Using Autoruns to Deal with Startup Processes and Malware](lesson6.md)
+7.  [Using BgInfo to Display System Information on the Desktop](lesson7.md)
+8.  [Using PsTools to Control Other PCs from the Command Line](lesson8.md)
+9.  [Analyzing and Managing Your Files, Folders, and Drives](lesson9.md)
+10.  [Wrapping Up and Using the Tools Together](lesson10.md)
 
 If you’ve ever wanted to connect to another computer and run a command, quickly get information about processes running and optionally kill them, or even stop a service on another PC, you can use the PsTools utilities to do all of these things and even more.
 
@@ -132,14 +132,14 @@ That command would produce output similar to the following:
 
 
 
-[Next Page: Using PsExec to Run Remote Commands](http://www.howtogeek.com/school/sysinternals-pro/lesson8/2/)
+[Next Page: Using PsExec to Run Remote Commands](lesson8.md2/)
 
 *   1
 
-*   [2](http://www.howtogeek.com/school/sysinternals-pro/lesson8/2/)
+*   [2](lesson8.md2/)
 
-*   [3](http://www.howtogeek.com/school/sysinternals-pro/lesson8/3/)
-*   [Next](http://www.howtogeek.com/school/sysinternals-pro/lesson8/2/)
+*   [3](lesson8.md3/)
+*   [Next](lesson8.md2/)
 
 [JOIN THE DISCUSSION (6 REPLIES)](#)
 
